@@ -1,0 +1,5 @@
+C:\Users\Tinti\source\repos\Assessment\Assessment\obj\Debug\net6.0\Assessment.csproj.AssemblyReference.cache
+C:\Users\Tinti\source\repos\Assessment\Assessment\obj\Debug\net6.0\Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tinti\source\repos\Assessment\Assessment\obj\Debug\net6.0\Assessment.AssemblyInfoInputs.cache
+C:\Users\Tinti\source\repos\Assessment\Assessment\obj\Debug\net6.0\Assessment.AssemblyInfo.cs
+C:\Users\Tinti\source\repos\Assessment\Assessment\obj\Debug\net6.0\Assessment.csproj.CoreCompileInputs.cache
