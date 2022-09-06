@@ -50,7 +50,7 @@ new Event{ Name = "LadyGaGa", City = "Washington"}
              */
 
             // Task 2
-            var nearEvents = events.OrderBy(x => GetDistance(customer.City, x.City)).Take(5).ToList();
+            var nearEvents = events.Where(x => x.City != customer.City).OrderBy(x => GetDistance(customer.City, x.City)).Take(5).ToList();
 
             foreach (var item in nearEvents)
             {

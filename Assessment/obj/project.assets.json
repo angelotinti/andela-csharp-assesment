@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tinti\\source\\repos\\Assessment\\Assessment\\Assessment.csproj",
+      "projectUniqueName": "C:\\projects\\andela-csharp-assesment\\Assessment\\Assessment.csproj",
       "projectName": "Assessment",
-      "projectPath": "C:\\Users\\Tinti\\source\\repos\\Assessment\\Assessment\\Assessment.csproj",
+      "projectPath": "C:\\projects\\andela-csharp-assesment\\Assessment\\Assessment.csproj",
       "packagesPath": "C:\\Users\\Tinti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tinti\\source\\repos\\Assessment\\Assessment\\obj\\",
+      "outputPath": "C:\\projects\\andela-csharp-assesment\\Assessment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tinti\\AppData\\Roaming\\NuGet\\NuGet.Config",
